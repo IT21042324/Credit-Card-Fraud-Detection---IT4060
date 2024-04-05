@@ -1,0 +1,13 @@
+# ignoring python virtual enviornment
+env
+
+# ignoring trained models
+models/*
+# keeping text file
+!models/google_drive.txt
+
+# ignoring checkpoints
+.ipynb_checkpoints
+
+# ignoring custom vscode settings
+.vscode
