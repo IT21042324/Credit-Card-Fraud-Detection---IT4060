@@ -11,3 +11,6 @@ models/*
 
 # ignoring custom vscode settings
 .vscode
+
+# ignoring ./reqs created during generation of requirements.txt
+reqs
